@@ -10,7 +10,7 @@ A cross-platform (iOS / Android), selector/picker component for React Native tha
 ## Install
 
 ```sh
-npm i react-native-modal-picker --save
+npm i https://github.com/developerslions/react-native-modal-picker.git --save
 ```
 
 ## Usage
